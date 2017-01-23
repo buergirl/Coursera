@@ -1,6 +1,6 @@
 ﻿# LESSON 1.1   Why do we need Game Theory,and what does it tell us?
 
-标签（空格分隔）： Game-Theory
+ Game-Theory
 
 ---
 What is Game Theory?
